@@ -1,0 +1,173 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.frmw {
+    width: 550px;
+}
+.wdth2 {
+    width:350px;
+}
+.wdth1 {
+    width:400px;
+}
+
+.tx1, .tx2, .tx3 {
+    text-align: center;
+}
+.tx1 {
+    font-size: 20px;
+    color: green;
+}
+.tx2 {
+    padding:0 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.tx3 {
+
+    font-size: 12px;
+    padding: 10px 0;
+}
+
+.bdr4 {
+
+    border-radius: 15px;
+    border: 1px solid black;
+}
+
+.tx4 {
+    font-size: 12px;
+}
+
+.bttn {
+    border-radius: 10px;
+    background: coral;
+    color: white;
+    padding: 0 10px;
+}
+
+.btx1 {
+    font-size: 20px;
+    color: green;
+    text-transform: uppercase;
+}
+.btx2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.btx3 {
+    padding:10px 0;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.btx4 {
+    padding:0 40px;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.teamtitle {
+    padding: 40px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.testtitle {
+    padding-top: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.testtitle2 {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.pagetitle {
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.titlespan {
+    color: green;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+.logospan {
+    color: coral;
+    text-transform: uppercase;
+}
+
+.center-block {
+    display: block;
+    border-radius: 22%;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center-block2 {
+    display: block;
+    border-radius: 6%;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center-block3 {
+    display: block;
+    border-radius: 25%;
+    overflow: hidden;
+
+}
+
+.homemenu {
+    background-color: rgba(0, 255, 0, .25);
+}
+
+.homebg {
+    background-color: rgba(0, 255, 0, .15);
+}
+
+.hometext1 {
+    padding:40px 100px 00px 0 ;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.hometext2 {
+    padding:0px 100px 40px 0 ;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+.featuretitle {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.featuretext {
+    font-size: 12px;
+}
+
+.featuretitle2 {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.featuretext2 {
+    font-size: 12px;
+    text-align: center;
+}
+
+.textnone {
+    text-decoration: none;
+    color: black;
+}
